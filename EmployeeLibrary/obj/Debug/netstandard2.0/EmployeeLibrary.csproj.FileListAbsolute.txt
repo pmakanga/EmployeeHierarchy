@@ -1,0 +1,9 @@
+D:\Personal\TechoBrain Interview questions\EmployeeHierarchy\EmployeeLibrary\bin\Debug\netstandard2.0\EmployeeLibrary.deps.json
+D:\Personal\TechoBrain Interview questions\EmployeeHierarchy\EmployeeLibrary\bin\Debug\netstandard2.0\EmployeeLibrary.dll
+D:\Personal\TechoBrain Interview questions\EmployeeHierarchy\EmployeeLibrary\bin\Debug\netstandard2.0\EmployeeLibrary.pdb
+D:\Personal\TechoBrain Interview questions\EmployeeHierarchy\EmployeeLibrary\obj\Debug\netstandard2.0\EmployeeLibrary.csprojAssemblyReference.cache
+D:\Personal\TechoBrain Interview questions\EmployeeHierarchy\EmployeeLibrary\obj\Debug\netstandard2.0\EmployeeLibrary.AssemblyInfoInputs.cache
+D:\Personal\TechoBrain Interview questions\EmployeeHierarchy\EmployeeLibrary\obj\Debug\netstandard2.0\EmployeeLibrary.AssemblyInfo.cs
+D:\Personal\TechoBrain Interview questions\EmployeeHierarchy\EmployeeLibrary\obj\Debug\netstandard2.0\EmployeeLibrary.csproj.CoreCompileInputs.cache
+D:\Personal\TechoBrain Interview questions\EmployeeHierarchy\EmployeeLibrary\obj\Debug\netstandard2.0\EmployeeLibrary.dll
+D:\Personal\TechoBrain Interview questions\EmployeeHierarchy\EmployeeLibrary\obj\Debug\netstandard2.0\EmployeeLibrary.pdb
